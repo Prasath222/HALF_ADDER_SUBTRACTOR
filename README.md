@@ -62,6 +62,8 @@ RegisterNumber:24900112
 
 
 **Output/TIMING Waveform**
+
+
 [Screenshot 2024-11-26 135946](https://github.com/user-attachments/assets/95ea25fb-75e4-4669-b4e4-c04ad118729d)
 
 **Result:**
